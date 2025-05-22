@@ -1,0 +1,63 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Orbitron';
+    background-color: #121212;
+    color: #027030;
+    text-align: center;
+    padding: 40px;
+}
+
+h1, h2, h3 {
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 2em;
+    color: #ffffff;
+}
+
+h2#relogio {
+    font-size: 3em;
+    color: #027030;
+    margin-bottom: 40px;
+}
+
+h3 {
+    color: #cccccc;
+}
+
+h3#agora {
+    font-size: 1.2em;
+    color: #027030;
+    margin-bottom: 40px;
+}
+
+
+
+
+#cronometro {
+    font-size: 3em;
+    color: #044402;
+    margin-bottom: 30px;
+}
+
+button {
+    background-color: #027030;
+    color: #0a0404;
+    border: none;
+    padding: 12px 25px;
+    margin: 10px;
+    font-size: 1.1em;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+
